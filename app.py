@@ -1,2 +1,2 @@
-print("good enoght")
+print("good enoght...")
 
